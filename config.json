@@ -1,0 +1,13 @@
+{
+    "values": [
+        "https://rss.nodeseek.com/",
+        "https://linux.do/latest.rss",
+        "https://www.v2ex.com/feed/vps.xml",
+        "https://hostloc.com/forum.php?mod=rss&fid=45&auth=389ec3vtQanmEuRoghE%2FpZPWnYCPmvwWgSa7RsfjbQ%2BJpA%2F6y6eHAx%2FKqtmPOg"
+    ],
+    "refresh": 6,
+    "autoUpdatePush": 7,
+    "listHeight": "600",
+    "webTitle": "Hello MJJ",
+    "webDes":"MJJ station"
+}

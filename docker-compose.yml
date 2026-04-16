@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  server:
+    image: topang/rss-reader-mix:latest
+    container_name: rss-reader-mix
+    restart: always
+    ports:
+      - "8080:8080"
+    volumes:
+      - "$PWD/config.json:/app/config.json"
